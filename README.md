@@ -1,0 +1,2 @@
+# Develop-a-Library-Application-to-suport-the-librarian
+The libray has a name, holds a number of books each of which has a title, author and unique catalogue number. There are registered borrowers each with a unique name. A borrower may borrow a book and return it. However, each book transaction must be recorded by a libranian. She is also expected to register a new borrower, be able to display in increasing catalogue number oreder those books available for loan and those already out of loan.
